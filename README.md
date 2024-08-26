@@ -3,7 +3,7 @@ This is no longer the recommended way to approach server side rendering with Rea
 
 ## Getting started
 Clone the repo with
-```git clone https://github.com/alexnm/react-ssr```
+```git clone https://github.com/luatsoft/react-ssr```
 
 Install dependencies with
 ```npm i```
@@ -21,11 +21,8 @@ Now open the browser and navigate to `http://localhost:2048` and you get your se
 
 ## Navigating through the different steps
 Understand the different parts of server side rendering by going through each tag:
-* [Base example](https://github.com/alexnm/react-ssr/tree/basic)
-* [Adding React Router](https://github.com/alexnm/react-ssr/tree/router)
-* [Adding Redux](https://github.com/alexnm/react-ssr/tree/redux)
-* [Data Fetching](https://github.com/alexnm/react-ssr/tree/fetch-data)
-* [Using React Helmet](https://github.com/alexnm/react-ssr/tree/helmet)
-
-## In depth explanations
-Read more about [implementing server side rendering](https://medium.com/@alexnm/demystifying-reacts-server-side-render-de335d408fe4) step by step. Feedback is more than welcome!
+* [Base example](https://github.com/luatsoft/react-ssr/tree/basic)
+* [Adding React Router](https://github.com/luatsoft/react-ssr/tree/router)
+* [Adding Redux](https://github.com/luatsoft/react-ssr/tree/redux)
+* [Data Fetching](https://github.com/luatsoft/react-ssr/tree/fetch-data)
+* [Using React Helmet](https://github.com/luatsoft/react-ssr/tree/helmet)
